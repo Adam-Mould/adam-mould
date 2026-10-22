@@ -6,6 +6,7 @@ import { Layout } from '@/components/Layout'
 import '@/styles/tailwind.css'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://adam-mould.co.uk'),
   title: {
     template: '%s - Adam Mould',
     default: 'Adam Mould - Principal Frontend Engineer',
