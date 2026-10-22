@@ -66,7 +66,7 @@ export default function AI() {
             Something I took from{' '}
             <a
               href="https://x.com/poteto"
-              className="font-medium text-teal-500 hover:text-teal-600 dark:text-teal-400 dark:hover:text-teal-300"
+              className="font-medium text-teal-700 hover:text-teal-800 dark:text-teal-400 dark:hover:text-teal-300"
             >
               Lauren Tan
             </a>
