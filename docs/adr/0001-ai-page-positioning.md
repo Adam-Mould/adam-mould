@@ -1,0 +1,3 @@
+# AI page positioning
+
+The `/ai` page positions Adam as an expert user of AI whose velocity has gone up because of it, while he still owns the craft. It has four sections in this order: How I work, Tools, Learning, Reading. All claims are qualitative: no unpublished TransitionZero metrics, percentages or timings. The copy never uses the "it's not X, it's Y" construction, which Adam finds a cliché of AI writing. The page openly says that on A Legacy Beyond Adam audits AI reviews rather than reading every line, framed as deliberate work toward a software factory that scales past him as a bottleneck. It also credits the people he learns from (MEGA's instructors, Lauren Tan) by name.
