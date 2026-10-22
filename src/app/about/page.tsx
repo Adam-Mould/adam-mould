@@ -67,17 +67,16 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I’m Adam Mould. I’ve been taking things from zero to shipped since
-            2010.
+            I’m Adam Mould. I taught myself to code in 2010 and haven’t stopped
+            shipping since.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              I taught myself to code, and my first products were two premium
-              WordPress themes on ThemeForest. At their peak they sold around
-              ten copies a day, and I looked after everything else as well: the
-              listings, documentation, releases and customer support. An agency
-              bought one of the themes, liked it, and tracked me down to offer
-              me my first job.
+              My first products were two premium WordPress themes on
+              ThemeForest. At their peak they sold around ten copies a day, and
+              I looked after everything else as well: the listings,
+              documentation, releases and customer support. It was my first
+              taste of product engineering, before anyone was calling it that.
             </p>
             <p>
               I spent the next few years in agencies and in-house teams. I was
@@ -87,14 +86,14 @@ export default function About() {
               of Viking Direct, a global eCommerce platform.
             </p>
             <p>
-              In 2016 I co-founded Dream Digital, a boutique agency, and spent
-              nine years as its Technical Director. I set up its technical side
-              from scratch and shipped more than fifty sites and applications
-              for universities, agencies and startups, looking after everything
-              from the database to the deploy.
+              In 2016 I co-founded Dream Digital, a multi-award-winning boutique
+              agency, and spent nine years as its Technical Director. I set up
+              its technical side from scratch and shipped more than fifty sites
+              and applications for universities, agencies and startups, looking
+              after everything from the database to the deploy.
             </p>
             <p>
-              Today I’m Principal Frontend Engineer at TransitionZero, a
+              Today I’m the Principal Frontend Engineer at TransitionZero, a
               climate-tech non-profit, where I own the frontend of Scenario
               Builder. It’s an energy-systems modelling platform that handles
               millions of rows in the browser, with maps, charts and an AI
@@ -102,8 +101,9 @@ export default function About() {
               build my own products end to end, most recently A Legacy Beyond.
             </p>
             <p>
-              I work AI-first, and I ship much faster for it. I still read every
-              line before it goes out.
+              I’ve gone all in on AI-first engineering, and I ship much faster
+              for it. These days I spend more time designing how agents build
+              than writing code myself.
             </p>
           </div>
         </div>
