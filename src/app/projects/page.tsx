@@ -38,7 +38,7 @@ export default function Projects() {
               <Logo
                 src={project.logo}
                 name={project.name}
-                className="h-8 w-8"
+                className="h-full w-full rounded-full object-cover"
               />
             </div>
             <h2 className="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">
