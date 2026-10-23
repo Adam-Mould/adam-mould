@@ -66,7 +66,7 @@ export default function About() {
           </div>
         </div>
         <div className="lg:order-first lg:row-span-2">
-          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
+          <h1 className="text-4xl font-bold tracking-tight text-pretty text-zinc-800 sm:text-5xl dark:text-zinc-100">
             I’m Adam Mould. I taught myself to code in 2010 and haven’t stopped
             shipping since.
           </h1>
