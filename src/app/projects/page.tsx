@@ -19,13 +19,13 @@ function LinkIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 export const metadata: Metadata = {
   title: 'Projects',
   description:
-    'Products I’ve taken from zero to shipped, at work and on my own.',
+    'Products I’ve led, built and launched, at work and on my own.',
 }
 
 export default function Projects() {
   return (
     <SimpleLayout
-      title="Products I’ve taken from zero to shipped."
+      title="Products I’ve led, built and launched."
       intro="I’ve shipped more than fifty sites and applications. These are the four I’m proudest of: the platform I lead at work, the product I built myself, and two sites from my agency years."
     >
       <ul
